@@ -260,15 +260,14 @@
                             android:layout_height="wrap_content"
                             android:paddingStart="5dp"
                             android:paddingEnd="5dp"
-                            app:counterEnabled="true"
-                            app:endIconMode="clear_text"
-                            app:suffixText="">
+                            app:counterEnabled="true">
 
                             <com.google.android.material.textfield.TextInputEditText
                                 android:id="@+id/txtConditional"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:inputType="number"
+                                android:maxLength="2"
                                 android:maxLines="1" />
                         </com.google.android.material.textfield.TextInputLayout>
 
