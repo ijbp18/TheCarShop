@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TheCarShop</string>
+    <string name="car_detail_image_content_description">Image of car</string>
+    <string name="date_text">%1$s-%2$s-%3$d</string>
+    <string name="only_year_text">%1$d</string>
+    <string name="txt_name_app">The Car Shop!</string>
+    <string name="item">Item</string>
+    <string name="menu_item_settings_category">Settings</string>
+    <string name="empty_text">Add a new car :)</string>
+    <string name="error_message">Please complete all the fields</string>
+    <string name="lets_get_started">Lets get started...</string>
+    <string name="car_details">Car Details</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_condition">Condition</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_seats">Seats</string>
+    <string name="lbl_price">Price</string>
+    <string name="lbl_model">Model</string>
+    <string name="lbl_date_released">Date Released</string>
+    <string name="txt_available_cars">Available Cars</string>
+    <string name="txt_its_time_to_drive">It\'s time to Drive...</string>
+    <string name="txt_the_car_of_your">the car of your</string>
+    <string name="txt_dreams">DREAMS!</string>
+    <string name="txt_save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_app_name">The Car Shop!</string>
+    <string name="problem_data_category">There was a problem getting the categories</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="battery_capacity">Battery Capacity</string>
+    <string name="available_payload">Available Payload</string>
+    <string name="space_capacity">Space Capacity</string>
+    <string name="select_a_category">Select a category</string>
+    <string name="include_some_details">Include some details</string>
+    <string name="empty_fields_message">Please complete all the fields</string>
+    <string name="empty_field_category_name">Please enter a name for the category</string>
+    <string name="category_added_txt">Category added</string>
+    <string name="category">CATEGORY</string>
+</resources>
